@@ -9,5 +9,5 @@
 * Not build static html files
 
 [GitHub](https://github.com/guofei9987/reading/)
-[Get Started](#zh-cn)
+[Get Started](#/docs/4_外国历史/《大博弈》)
 
