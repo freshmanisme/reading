@@ -8,6 +8,6 @@
 * Multiple themes
 * Not build static html files
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://github.com/guofei9987/reading/)
 [Get Started](#zh-cn)
 

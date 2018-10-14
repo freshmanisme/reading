@@ -1,6 +1,6 @@
 import os
 
-repository_path = r'C:\Users\guofei8\Desktop\git\GitHub\test_for_docsify'
+repository_path = r'C:\Users\guofei8\Desktop\git\GitHub\reading'
 doc_path = repository_path + r'\docs'
 
 path_walker = os.walk(doc_path, topdown=True)
