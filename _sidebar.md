@@ -1,4 +1,4 @@
-<a href="http://www.guofei.site" target='blog'><img src="_media/pic.jpg"  alt="回到blog" /></a>
+<a href="http://www.guofei.site" target='blog'><img src="http://www.guofei.site/public/img/unicorn.png"  alt="回到blog" /></a>
 
 # docs
 * 1_诸子百家
