@@ -48,23 +48,6 @@ docsify 扩展了一些 Markdown 语法，可以让文档更易读。
 [link](/demo2 ':target=_self')
 ```
 
-## Github 任务列表
-
-```md
-- [ ] foo
-- bar
-- [x] baz
-- [] bam <~ not working
-  - [ ] bim
-  - [ ] lim
-```
-
-- [ ] foo
-- bar
-- [x] baz
-- [ ] bam <~ not working
-  - [ ] bim
-  - [ ] lim
 
 ## Image resizing
 

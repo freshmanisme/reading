@@ -116,8 +116,7 @@
 # docsify笔记
 * 入门
     * [快速开始](建站日志/quickstart.md)
-    * [多页文档](建站日志/more-pages.md)
-* 定制化
     * [配置项](建站日志/configuration.md)
     * [主要配置](建站日志/themes.md)
     * [扩展Markdown语法<sup style="color:red">(new)<sup>](建站日志/markdown.md)
+    * [mermaid语法<sup style="color:red">(new)<sup>](建站日志/mermaid.md)
