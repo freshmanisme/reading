@@ -49,16 +49,4 @@ docsify 扩展了一些 Markdown 语法，可以让文档更易读。
 ```
 
 
-## Image resizing
-
-```md
-![logo](https://docsify.js.org/_media/icon.svg ':size=50x100')
-![logo](https://docsify.js.org/_media/icon.svg ':size=100')
-```
-
-![logo](https://docsify.js.org/_media/icon.svg ':size=50x100')
-![logo](https://docsify.js.org/_media/icon.svg ':size=100')
-
-
-
 [文档嵌入](https://docsify.js.org/#/zh-cn/embed-files)

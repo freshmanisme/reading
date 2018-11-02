@@ -1,3 +1,4 @@
+# 用二叉树自动print sidebar
 import os
 
 repository_path = r'C:\Users\guofei8\Desktop\git\GitHub\reading'
