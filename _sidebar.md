@@ -6,15 +6,11 @@
 
 * 1_诸子百家
     * [1_诸子百家](docs/1_诸子百家/1_诸子百家.md)
-    * [5_墨家](docs/1_诸子百家/5_墨家.md)
-    * [6_厚黑学](docs/1_诸子百家/6_厚黑学.md)
-    * [7_法家](docs/1_诸子百家/7_法家.md)
 * 3_中国历史
     * [中国通史](docs/3_中国历史/中国通史.md)
     * [中国金融史](docs/3_中国历史/中国金融史.md)
+    * [人物传记](docs/3_中国历史/人物传记.md)
     * [古代经济政策](docs/3_中国历史/古代经济政策.md)
-    * [李斯](docs/3_中国历史/李斯.md)
-    * [白圭](docs/3_中国历史/白圭.md)
     * [跌宕一百年](docs/3_中国历史/跌宕一百年.md)
 * 4_外国历史
     * [《大博弈》](docs/4_外国历史/《大博弈》.md)
@@ -86,9 +82,7 @@
     * [Coursera_LearningHowToLearn](docs/Coursera/Coursera_LearningHowToLearn.md)
     * [真格基金创业课](docs/Coursera/真格基金创业课.md)
 * C_物理
-    * [上帝掷筛子吗](docs/C_物理/上帝掷筛子吗.md)
-    * [时间简史](docs/C_物理/时间简史.md)
-    * [物理科学](docs/C_物理/物理科学.md)
+    * [物理科普](docs/C_物理/物理科普.md)
 * D_修养
     * [如何学习](docs/D_修养/如何学习.md)
 * E_项目管理
@@ -108,9 +102,3 @@
     * [知乎文章](docs/Y_碎片阅读/知乎文章.md)
     * [罗振宇](docs/Y_碎片阅读/罗振宇.md)
     * [高晓松](docs/Y_碎片阅读/高晓松.md)
-* docsify笔记
-    * [快速开始](建站日志/quickstart.md)
-    * [配置项](建站日志/configuration.md)
-    * [主要配置](建站日志/themes.md)
-    * [扩展Markdown语法<sup style="color:red">(new)<sup>](建站日志/markdown.md)
-    * [mermaid语法<sup style="color:red">(new)<sup>](建站日志/mermaid.md)
