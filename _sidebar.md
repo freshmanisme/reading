@@ -10,6 +10,7 @@
     * [6_金融经济史](docs/1_历史和哲学/6_金融经济史.md)
     * [7_人物传记](docs/1_历史和哲学/7_人物传记.md)
     * [8_企业传记](docs/1_历史和哲学/8_企业传记.md)
+    * [J_日本](docs/1_历史和哲学/J_日本.md)
     * [其它](docs/1_历史和哲学/其它.md)
     * [吴晓波三部曲](docs/1_历史和哲学/吴晓波三部曲.md)
 * 2_社会学读物
@@ -65,6 +66,7 @@
     * [Coursera_LearningHowToLearn](docs/Coursera/Coursera_LearningHowToLearn.md)
     * [真格基金创业课](docs/Coursera/真格基金创业课.md)
 * D_自我管理
+    * [个人修养](docs/D_自我管理/个人修养.md)
     * [如何学习](docs/D_自我管理/如何学习.md)
 * E_项目管理
     * [工作部署](docs/E_项目管理/工作部署.md)

@@ -2,11 +2,10 @@
 
 # 读书这件事
 
-> 读书笔记.
+> By guofei
 
-* Simple and lightweight (~12kb gzipped)
-* Multiple themes
-* Not build static html files
+* 出发！
+* 目标：星辰大海
 
 [GitHub](https://github.com/guofei9987/reading/)
 [Get Started](/_sidebar)

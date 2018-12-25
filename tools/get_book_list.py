@@ -1,12 +1,12 @@
 # 我读完的书单放到自己blog里了，
 # 爬下来进行一些分析
 # 为什么自己爬自己写的东西啊？
-# 我也不知道
+# 因为水平有限
 import requests
 from bs4 import BeautifulSoup
 
 url = 'http://www.guofei.site/{year}/01/01/Book-List-{year}.html'
-url = 'http://127.0.0.1:4006/{year}/01/01/Book-List-{year}.html'
+# url = 'http://127.0.0.1:4006/{year}/01/01/Book-List-{year}.html'
 
 
 def get_one_year_books(year):
@@ -52,5 +52,10 @@ pd_all_books=pd_all_books.sort_values(by='date',ascending=True)
 pd_all_books['book_count']=1
 pd_all_books=pd_all_books.loc[pd_all_books.date>datetime.datetime(year=2013,month=1,day=1),:]
 plt.plot(pd_all_books.date,np.cumsum(pd_all_books.book_count),'.')
+plt.show()
+#%%
+
+pd_all_books.loc[:,['date','book_count']].set_index('date').resample('D').sum().rolling(window=120).sum().plot()
+
 plt.show()
 
