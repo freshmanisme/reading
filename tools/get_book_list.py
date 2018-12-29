@@ -20,7 +20,7 @@ def get_one_year_books(year):
     return one_year_books
 
 
-years = [2013, 2014, 2015, 2016, 2017, 2018]
+years = [2013, 2014, 2015, 2016, 2017, 2018,2019]
 all_books = []
 for year in years:
     all_books.extend(get_one_year_books(year))
@@ -55,7 +55,9 @@ plt.plot(pd_all_books.date,np.cumsum(pd_all_books.book_count),'.')
 plt.show()
 #%%
 
-pd_all_books.loc[:,['date','book_count']].set_index('date').resample('D').sum().rolling(window=120).sum().plot()
+pd_rolling=pd_all_books.loc[:,['date','book_count']].set_index('date').resample('D').sum().rolling(window=120).sum()
+pd_rolling=pd_rolling/120
+pd_rolling.plot()
 
 plt.show()
 
