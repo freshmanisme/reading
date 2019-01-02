@@ -116,14 +116,25 @@ head='''
 <a href="http://www.guofei.site" target='blog'>
 <img src="http://www.guofei.site/public/img/me.png"  alt="回到blog" height="64" width="64">
 </a>
-
-
 '''
+
+tail='''
+
+* 建站日志
+    * [快速开始](建站日志/quickstart.md)
+    * [多页文档](建站日志/more-pages.md)
+    * [配置项](建站日志/configuration.md)
+    * [主要配置](建站日志/themes.md)
+    * [扩展Markdown语法<sup style="color:red">(new)<sup>](建站日志/markdown.md)
+'''
+
+
+
 content='\n'.join(a.split('\n')[1:])
 
 f=open('_sidebar.md','w',encoding='utf-8')
 # print(head+content)
 # f.write(head+content.encode('utf-8').decode('utf-8'))
-f.write(head+content)
+f.write(head+content+tail)
 f.close()
 
