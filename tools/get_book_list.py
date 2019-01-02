@@ -5,8 +5,8 @@
 import requests
 from bs4 import BeautifulSoup
 
-url = 'http://www.guofei.site/{year}/01/01/Book-List-{year}.html'
-# url = 'http://127.0.0.1:4006/{year}/01/01/Book-List-{year}.html'
+# url = 'http://www.guofei.site/{year}/01/01/Book-List-{year}.html'
+url = 'http://127.0.0.1:4006/{year}/01/01/Book-List-{year}.html'
 
 
 def get_one_year_books(year):
@@ -20,7 +20,7 @@ def get_one_year_books(year):
     return one_year_books
 
 
-years = [2013, 2014, 2015, 2016, 2017, 2018,2019]
+years = [2013, 2014, 2015, 2016, 2017, 2018, 2019]
 all_books = []
 for year in years:
     all_books.extend(get_one_year_books(year))
