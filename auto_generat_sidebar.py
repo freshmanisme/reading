@@ -114,7 +114,7 @@ a = tree.pre_order(tree.root.children['docs'])
 #%%
 head='''
 <a href="http://www.guofei.site" target='blog'>
-<img src="http://www.guofei.site/public/img/unicorn.png"  alt="回到blog" height="64" width="64">
+<img src="http://www.guofei.site/public/img/me.png"  alt="回到blog" height="64" width="64">
 </a>
 
 
