@@ -1,85 +1,38 @@
 # 用二叉树自动print sidebar
+
+# %%
 import os
 
-# repository_path = r'C:\Users\guofei8\Desktop\git\GitHub\reading'
-# doc_path = repository_path + r'\docs'
-#
-# path_walker = os.walk(doc_path, topdown=True)
-# # 返回一个 generator ，每个元素是一个 tuple，内容分别是
-# # 目录，下级目录列表，下级文件列表
-#
-#
-# #%%
-# class TreeNode:
-#     def __init__(self, value, type, layer):
-#         self.value = value
-#         self.type = type  # 'file' or 'path'
-#         self.layer = layer
-#         self.children = dict()
-#
-#
-# class Tree:
-#     def __init__(self):
-#         self.root = TreeNode('root', 'path', 0)
-#
-#     def addTreeNode(self, path, dirs, nondirs):
-#         pointer = self.root
-#         for i in path:
-#             if i not in pointer.children:
-#                 pointer.children[i] = TreeNode(i, 'path', pointer.layer + 1)
-#             pointer = pointer.children[i]
-#         for i in dirs:
-#             pointer.children[i] = TreeNode(value='* ' + i, type='path', layer=pointer.layer + 1)
-#         for i in nondirs:
-#             file_name = '* [' + i.replace('.md','') + ']' + '(' + '/'.join(path) +'/'+ i + ')'  # 直接在file格式的叶节点内写入Markdown语句
-#             pointer.children[i] = TreeNode(value=file_name, type='file', layer=pointer.layer + 1)
-#
-#     def add_all_tree_node(self, path_walker):
-#         for top, dirs, nondirs in path_walker:
-#             path = top.replace(repository_path, '').split('\\')[1:]
-#             self.addTreeNode(path, dirs, nondirs)
-#
-#     def pre_order(self, root):
-#         return '' if (root is None) \
-#             else ((root.layer-2) * '    ' if root.layer>1 else '# ') + root.value + '\n' + \
-#                  ''.join([self.pre_order(i) for i in root.children.values()])
-#
-#
-# tree = Tree()
-# tree.add_all_tree_node(path_walker)
-# a = tree.pre_order(tree.root.children['docs'])
-# print(a)
-#
-# #%%
-#
-#
-# # 用二叉树自动print sidebar
-# import os
-#
-# repository_path = r'C:\Users\guofei8\Desktop\git\GitHub\reading'
-# doc_path = repository_path + r'\docs'
-#
-# path_walker = os.walk(doc_path, topdown=True)
-# # 返回一个 generator ，每个元素是一个 tuple，内容分别是
-# # 目录，下级目录列表，下级文件列表
 
+def word_count(file_name_md):
+    f = open(file_name_md, 'r', encoding='utf-8')
+    passages = f.readlines()
+    word_num = sum([len(passage) for passage in passages])
+    f.close()
+    return word_num
 
-#%%
-import os
 
 class TreeNode:
-    def __init__(self, value, type, layer):
-        self.value = value
+    def __init__(self, name, type, layer, word_num=0):
+        self.name = name
         self.type = type  # 'file' or 'path'
         self.layer = layer
+        self.word_num = word_num
         self.children = dict()
+
+    def __repr__(self):
+        # return self.name+self.type+str(self.layer)+str([i for i in self.children])
+        return 'name={name},type={type},layer={layer},word_num={word_num},children={children}'. \
+            format(name=self.name, type=self.type, layer=self.layer, word_num=self.word_num,
+                   children=[i for i in self.children])
 
 
 class Tree:
-    def __init__(self,path):
+    def __init__(self, path):
         path_walker = os.walk(path, topdown=True)
-        self.path1,path2='\\'.join(path.split('\\')[:-1]),path.split('\\')[-1]
-        self.root = TreeNode(path2, 'path', 0)
+        self.path1, self.path2 = '\\'.join(path.split('\\')[:-1]), path.split('\\')[-1]
+        # 'C:\\Users\\guofei8\\Desktop\\git\\GitHub\\reading', 'docs' 这种
+        self.root = TreeNode(self.path2, 'path', 0)
         self.add_all_tree_node(path_walker)
 
     def addTreeNode(self, path, dirs, nondirs):
@@ -89,38 +42,58 @@ class Tree:
                 pointer.children[i] = TreeNode(i, 'path', pointer.layer + 1)
             pointer = pointer.children[i]
         for i in dirs:
-            pointer.children[i] = TreeNode(value='* ' + i, type='path', layer=pointer.layer + 1)
+            pointer.children[i] = TreeNode(name='* ' + i, type='path', layer=pointer.layer + 1)
         for i in nondirs:
-            file_name = '* [' + i.replace('.md','') + ']' + '(' + '/'.join(path) +'/'+ i + ')'
-            # 直接在file格式的叶节点内写入Markdown语句
-            pointer.children[i] = TreeNode(value=file_name, type='file', layer=pointer.layer + 1)
+            # 每个节点的 name 是规整后的 markdown语句，这样前序遍历不需要太多处理就可以满足需求
+            word_num = word_count('\\'.join([self.path1] + path + [i]))
+
+            file_name_md = '* [' + i.replace('.md', '') + \
+                           ('<sup style = "color:red">' + str(word_num) + '字<sup>' if word_num else '') \
+                           + ']' \
+                           + '(' + '/'.join(path) + '/' + i + ')'
+            pointer.children[i] = TreeNode(name=file_name_md,
+                                           type='file',
+                                           layer=pointer.layer + 1,
+                                           word_num=word_num)
 
     def add_all_tree_node(self, path_walker):
         for top, dirs, nondirs in path_walker:
-            path = top.replace(self.path1, '').split('\\')[1:]
+            path = top.replace(self.path1, '').split('\\')[1:]  # 0号位是一个空字符串
             self.addTreeNode(path, dirs, nondirs)
 
     def pre_order(self, root):
         return '' if (root is None) \
-            else ((root.layer-2) * '    ' if root.layer>1 else '# ') + root.value + '\n' + \
+            else ((root.layer - 2) * '    ' if root.layer > 1 else '# ') + root.name + '\n' + \
                  ''.join([self.pre_order(i) for i in root.children.values()])
+
+    def pre_order2(self, root):
+        '''
+        总字数
+        '''
+        return 0 if (root is None) else root.word_num + sum([self.pre_order2(i) for i in root.children.values()])
 
 
 path = r'C:\Users\guofei8\Desktop\git\GitHub\reading\docs'
 tree = Tree(path)
-a = tree.pre_order(tree.root.children['docs'])
-# print(a)
+sidebar = tree.pre_order(tree.root.children[tree.path2])
+print(sidebar)
 
-#%%
-head='''
+# 总字数
+# c = tree.pre_order2(tree.root.children[tree.path2])
+# print(c)
+# %%
+head = '''
 <a href="http://www.guofei.site" target='blog'>
 <img src="http://www.guofei.site/public/img/me.png"  alt="回到blog" height="64" width="64">
 </a>
 
 '''
 
-tail='''
+tail = '''
 
+* 书单
+    * [书单](书单/书单.md)
+    * [读完的书单](书单/读完的书单.md)
 * 建站日志
     * [快速开始](建站日志/quickstart.md)
     * [多页文档](建站日志/more-pages.md)
@@ -129,13 +102,51 @@ tail='''
     * [扩展Markdown语法<sup style="color:red">(new)<sup>](建站日志/markdown.md)
 '''
 
+content = '\n'.join(sidebar.split('\n')[1:])
 
-
-content='\n'.join(a.split('\n')[1:])
-
-f=open('_sidebar.md','w',encoding='utf-8')
+f = open('_sidebar.md', 'w', encoding='utf-8')
 # print(head+content)
 # f.write(head+content.encode('utf-8').decode('utf-8'))
-f.write(head+content+tail)
+f.write(head + content + tail)
 f.close()
 
+# %%
+# 统计每个板块的字数
+def word_ana():
+    import re
+
+    regex = re.compile("[0-9]+['字']")
+
+    total_analys = []
+
+    for i in sidebar.split('\n')[1:]:
+        if len(i) > 0:
+            if i[0] == '*':
+                chapter = i[2:]
+            else:
+                k = regex.findall(i)
+                word_num = int(k[0].replace('字', '')) if len(k) > 0 else 0
+                total_analys.append([chapter, word_num])
+
+    import pandas as pd
+    total_analys_pd=pd.DataFrame(total_analys,columns=['chapter','word_num'])
+    a=total_analys_pd.groupby('chapter').sum()
+
+    import plotly.graph_objs as go
+    import plotly
+
+
+    # 拆成画图所需数据格式
+    data1 = go.Bar(
+        x=a.index,
+        y=a.word_num,
+        name='v1'
+    )
+
+    layout = go.Layout(title="bar charts", xaxis={'title': 'x'}, yaxis={'title': 'value'})
+    fig = go.Figure(data=[data1], layout=layout)
+    plotly.offline.plot(fig, filename='c:\\abc\\example.html')
+
+
+
+# word_ana()
