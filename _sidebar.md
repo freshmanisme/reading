@@ -12,7 +12,7 @@
     * [J_日本<sup style = "color:red">9193字<sup>](docs/1_历史和哲学/J_日本.md)
     * [其它<sup style = "color:red">639字<sup>](docs/1_历史和哲学/其它.md)
     * [吴晓波<sup style = "color:red">3898字<sup>](docs/1_历史和哲学/吴晓波.md)
-    * [尤瓦尔赫拉利<sup style = "color:red">13565字<sup>](docs/1_历史和哲学/尤瓦尔赫拉利.md)
+    * [尤瓦尔赫拉利<sup style = "color:red">16052字<sup>](docs/1_历史和哲学/尤瓦尔赫拉利.md)
 * 2_社科读物
     * [1_经济学科普<sup style = "color:red">2118字<sup>](docs/2_社科读物/1_经济学科普.md)
     * [2_认知升级<sup style = "color:red">713字<sup>](docs/2_社科读物/2_认知升级.md)
@@ -21,8 +21,8 @@
     * [其它书<sup style = "color:red">1031字<sup>](docs/2_社科读物/其它书.md)
     * [大国空巢<sup style = "color:red">2644字<sup>](docs/2_社科读物/大国空巢.md)
 * 4_进化论
-    * [疯狂人类进化史<sup style = "color:red">258字<sup>](docs/4_进化论/疯狂人类进化史.md)
-    * [裸猿三部曲<sup style = "color:red">2508字<sup>](docs/4_进化论/裸猿三部曲.md)
+    * [疯狂人类进化史<sup style = "color:red">486字<sup>](docs/4_进化论/疯狂人类进化史.md)
+    * [裸猿三部曲<sup style = "color:red">3234字<sup>](docs/4_进化论/裸猿三部曲.md)
     * [进化论与生活<sup style = "color:red">1811字<sup>](docs/4_进化论/进化论与生活.md)
 * 5_批判性思维
     * [《清醒思考的艺术》<sup style = "color:red">1177字<sup>](docs/5_批判性思维/《清醒思考的艺术》.md)
