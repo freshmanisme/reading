@@ -12,7 +12,7 @@
     * [J_日本<sup style = "color:red">9193字<sup>](docs/1_历史和哲学/J_日本.md)
     * [其它<sup style = "color:red">639字<sup>](docs/1_历史和哲学/其它.md)
     * [吴晓波<sup style = "color:red">3898字<sup>](docs/1_历史和哲学/吴晓波.md)
-    * [尤瓦尔赫拉利<sup style = "color:red">31031字<sup>](docs/1_历史和哲学/尤瓦尔赫拉利.md)
+    * [尤瓦尔赫拉利<sup style = "color:red">31722字<sup>](docs/1_历史和哲学/尤瓦尔赫拉利.md)
 * 2_社科读物
     * [1_经济学科普<sup style = "color:red">2118字<sup>](docs/2_社科读物/1_经济学科普.md)
     * [2_认知升级<sup style = "color:red">713字<sup>](docs/2_社科读物/2_认知升级.md)
