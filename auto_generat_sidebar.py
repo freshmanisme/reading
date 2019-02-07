@@ -7,7 +7,7 @@ import os
 def word_count(file_name_md):
     f = open(file_name_md, 'r', encoding='utf-8')
     passages = f.readlines()
-    word_num = sum([len(passage) for passage in passages])
+    word_num = sum([len(passage.replace('\n', '').replace(' ', '')) for passage in passages])
     f.close()
     return word_num
 
@@ -110,6 +110,7 @@ f = open('_sidebar.md', 'w', encoding='utf-8')
 f.write(head + content + tail)
 f.close()
 
+
 # %%
 # 统计每个板块的字数
 def word_ana():
@@ -129,12 +130,11 @@ def word_ana():
                 total_analys.append([chapter, word_num])
 
     import pandas as pd
-    total_analys_pd=pd.DataFrame(total_analys,columns=['chapter','word_num'])
-    a=total_analys_pd.groupby('chapter').sum()
+    total_analys_pd = pd.DataFrame(total_analys, columns=['chapter', 'word_num'])
+    a = total_analys_pd.groupby('chapter').sum()
 
     import plotly.graph_objs as go
     import plotly
-
 
     # 拆成画图所需数据格式
     data1 = go.Bar(
@@ -146,7 +146,5 @@ def word_ana():
     layout = go.Layout(title="bar charts", xaxis={'title': 'x'}, yaxis={'title': 'value'})
     fig = go.Figure(data=[data1], layout=layout)
     plotly.offline.plot(fig, filename='c:\\abc\\example.html')
-
-
 
 # word_ana()
