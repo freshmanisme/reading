@@ -4,8 +4,8 @@
 
 > By guofei
 
-* 出发！
-* 目标：星辰大海
+* 人类必将化身为神
+
 
 [GitHub](https://github.com/guofei9987/reading/)
 [Get Started](/_sidebar)

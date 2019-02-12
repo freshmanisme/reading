@@ -5,7 +5,7 @@
 
 * 1_历史和哲学
     * [1_诸子百家<sup style = "color:red">1943字<sup>](docs/1_历史和哲学/1_诸子百家.md)
-    * [2_佛家<sup style = "color:red">5712字<sup>](docs/1_历史和哲学/2_佛家.md)
+    * [2_佛家<sup style = "color:red">5727字<sup>](docs/1_历史和哲学/2_佛家.md)
     * [5_通史<sup style = "color:red">1652字<sup>](docs/1_历史和哲学/5_通史.md)
     * [6_金融经济史<sup style = "color:red">3743字<sup>](docs/1_历史和哲学/6_金融经济史.md)
     * [7_人物传记<sup style = "color:red">2258字<sup>](docs/1_历史和哲学/7_人物传记.md)
@@ -87,7 +87,7 @@
     * [读完的书单](书单/读完的书单.md)
 * 建站日志
     * [快速开始](建站日志/quickstart.md)
-    * [多页文档](建站日志/more-pages.md)
     * [配置项](建站日志/configuration.md)
-    * [主要配置](建站日志/themes.md)
+    * [主题](建站日志/themes.md)
     * [扩展Markdown语法<sup style="color:red">(new)<sup>](建站日志/markdown.md)
+    * [mermaid语法](建站日志/mermaid.md)
