@@ -5,7 +5,7 @@
 
 * 1_历史和哲学
     * [1_诸子百家<sup style = "color:red">1943字<sup>](docs/1_历史和哲学/1_诸子百家.md)
-    * [2_佛家<sup style = "color:red">5727字<sup>](docs/1_历史和哲学/2_佛家.md)
+    * [2_佛家<sup style = "color:red">6143字<sup>](docs/1_历史和哲学/2_佛家.md)
     * [5_通史<sup style = "color:red">1652字<sup>](docs/1_历史和哲学/5_通史.md)
     * [6_金融经济史<sup style = "color:red">3743字<sup>](docs/1_历史和哲学/6_金融经济史.md)
     * [7_人物传记<sup style = "color:red">2258字<sup>](docs/1_历史和哲学/7_人物传记.md)
