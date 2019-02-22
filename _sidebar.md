@@ -5,7 +5,7 @@
 
 * 1_历史和哲学
     * [1_诸子百家<sup style = "color:red">1943字<sup>](docs/1_历史和哲学/1_诸子百家.md)
-    * [2_佛家<sup style = "color:red">16280字<sup>](docs/1_历史和哲学/2_佛家.md)
+    * [2_佛家<sup style = "color:red">17473字<sup>](docs/1_历史和哲学/2_佛家.md)
     * [5_通史<sup style = "color:red">1652字<sup>](docs/1_历史和哲学/5_通史.md)
     * [6_金融经济史<sup style = "color:red">3743字<sup>](docs/1_历史和哲学/6_金融经济史.md)
     * [7_人物传记<sup style = "color:red">2258字<sup>](docs/1_历史和哲学/7_人物传记.md)
@@ -29,7 +29,7 @@
     * [《清醒思考的艺术》<sup style = "color:red">1050字<sup>](docs/5_批判性思维/《清醒思考的艺术》.md)
     * [《赤裸裸的统计学》<sup style = "color:red">1591字<sup>](docs/5_批判性思维/《赤裸裸的统计学》.md)
     * [批判性思维六册合辑<sup style = "color:red">548字<sup>](docs/5_批判性思维/批判性思维六册合辑.md)
-    * [统计数字会撒谎<sup style = "color:red">5779字<sup>](docs/5_批判性思维/统计数字会撒谎.md)
+    * [统计数字会撒谎<sup style = "color:red">6862字<sup>](docs/5_批判性思维/统计数字会撒谎.md)
     * [逻辑反驳<sup style = "color:red">2645字<sup>](docs/5_批判性思维/逻辑反驳.md)
 * 6_科技
     * [1_物理读物<sup style = "color:red">13364字<sup>](docs/6_科技/1_物理读物.md)
