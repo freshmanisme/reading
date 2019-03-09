@@ -28,7 +28,7 @@
 * 5_批判性思维
     * [《清醒思考的艺术》<sup style = "color:red">1050字<sup>](docs/5_批判性思维/《清醒思考的艺术》.md)
     * [《赤裸裸的统计学》<sup style = "color:red">1591字<sup>](docs/5_批判性思维/《赤裸裸的统计学》.md)
-    * [批判性思维六册合辑<sup style = "color:red">548字<sup>](docs/5_批判性思维/批判性思维六册合辑.md)
+    * [批判性思维六册合辑<sup style = "color:red">7488字<sup>](docs/5_批判性思维/批判性思维六册合辑.md)
     * [统计数字会撒谎<sup style = "color:red">6862字<sup>](docs/5_批判性思维/统计数字会撒谎.md)
     * [逻辑反驳<sup style = "color:red">2645字<sup>](docs/5_批判性思维/逻辑反驳.md)
 * 6_科技
