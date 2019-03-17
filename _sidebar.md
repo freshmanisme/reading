@@ -18,7 +18,7 @@
     * [1_经济学科普<sup style = "color:red">1939字<sup>](docs/2_社科读物/1_经济学科普.md)
     * [2_认知升级<sup style = "color:red">629字<sup>](docs/2_社科读物/2_认知升级.md)
     * [4_塔勒布<sup style = "color:red">5142字<sup>](docs/2_社科读物/4_塔勒布.md)
-    * [5_凯文凯利<sup style = "color:red">8字<sup>](docs/2_社科读物/5_凯文凯利.md)
+    * [5_凯文凯利<sup style = "color:red">6415字<sup>](docs/2_社科读物/5_凯文凯利.md)
     * [其它书<sup style = "color:red">936字<sup>](docs/2_社科读物/其它书.md)
     * [大国空巢<sup style = "color:red">2480字<sup>](docs/2_社科读物/大国空巢.md)
 * 4_进化论
@@ -28,7 +28,7 @@
 * 5_批判性思维
     * [《清醒思考的艺术》<sup style = "color:red">1050字<sup>](docs/5_批判性思维/《清醒思考的艺术》.md)
     * [《赤裸裸的统计学》<sup style = "color:red">1591字<sup>](docs/5_批判性思维/《赤裸裸的统计学》.md)
-    * [批判性思维六册合辑<sup style = "color:red">7488字<sup>](docs/5_批判性思维/批判性思维六册合辑.md)
+    * [批判性思维六册合辑<sup style = "color:red">8961字<sup>](docs/5_批判性思维/批判性思维六册合辑.md)
     * [统计数字会撒谎<sup style = "color:red">6862字<sup>](docs/5_批判性思维/统计数字会撒谎.md)
     * [逻辑反驳<sup style = "color:red">2645字<sup>](docs/5_批判性思维/逻辑反驳.md)
 * 6_科技
@@ -68,12 +68,14 @@
     * [Coursera_LearningHowToLearn<sup style = "color:red">2090字<sup>](docs/Coursera/Coursera_LearningHowToLearn.md)
     * [真格基金创业课<sup style = "color:red">5017字<sup>](docs/Coursera/真格基金创业课.md)
 * D_自我管理和项目管理
+    * [《成大事者不纠结》<sup style = "color:red">2428字<sup>](docs/D_自我管理和项目管理/《成大事者不纠结》.md)
     * [个人修养<sup style = "color:red">327字<sup>](docs/D_自我管理和项目管理/个人修养.md)
     * [如何学习<sup style = "color:red">2658字<sup>](docs/D_自我管理和项目管理/如何学习.md)
-    * [工作部署<sup style = "color:red">11661字<sup>](docs/D_自我管理和项目管理/工作部署.md)
+    * [工作部署<sup style = "color:red">11415字<sup>](docs/D_自我管理和项目管理/工作部署.md)
     * [敏捷<sup style = "color:red">3815字<sup>](docs/D_自我管理和项目管理/敏捷.md)
     * [罗伯特议事法<sup style = "color:red">868字<sup>](docs/D_自我管理和项目管理/罗伯特议事法.md)
     * [逆向管理<sup style = "color:red">221字<sup>](docs/D_自我管理和项目管理/逆向管理.md)
+    * [项目管理<sup style = "color:red">301字<sup>](docs/D_自我管理和项目管理/项目管理.md)
 * Y_碎片阅读
     * [冬吴相对论<sup style = "color:red">1593字<sup>](docs/Y_碎片阅读/冬吴相对论.md)
     * [物理脑洞<sup style = "color:red">1488字<sup>](docs/Y_碎片阅读/物理脑洞.md)
