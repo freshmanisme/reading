@@ -17,8 +17,8 @@
 * 2_社科读物
     * [1_经济学科普<sup style = "color:red">1939字<sup>](docs/2_社科读物/1_经济学科普.md)
     * [2_认知升级<sup style = "color:red">629字<sup>](docs/2_社科读物/2_认知升级.md)
-    * [4_塔勒布<sup style = "color:red">5142字<sup>](docs/2_社科读物/4_塔勒布.md)
-    * [5_凯文凯利<sup style = "color:red">6415字<sup>](docs/2_社科读物/5_凯文凯利.md)
+    * [4_塔勒布<sup style = "color:red">5147字<sup>](docs/2_社科读物/4_塔勒布.md)
+    * [5_凯文凯利<sup style = "color:red">18364字<sup>](docs/2_社科读物/5_凯文凯利.md)
     * [其它书<sup style = "color:red">936字<sup>](docs/2_社科读物/其它书.md)
     * [大国空巢<sup style = "color:red">2480字<sup>](docs/2_社科读物/大国空巢.md)
 * 4_进化论
@@ -35,6 +35,7 @@
     * [1_物理读物<sup style = "color:red">13364字<sup>](docs/6_科技/1_物理读物.md)
     * [2_技术展望<sup style = "color:red">3949字<sup>](docs/6_科技/2_技术展望.md)
     * [《信号与噪声》<sup style = "color:red">1584字<sup>](docs/6_科技/《信号与噪声》.md)
+    * [《数字化生存》<sup style = "color:red">139字<sup>](docs/6_科技/《数字化生存》.md)
     * [其它<sup style = "color:red">931字<sup>](docs/6_科技/其它.md)
     * [大数据<sup style = "color:red">1571字<sup>](docs/6_科技/大数据.md)
     * [终极算法<sup style = "color:red">1818字<sup>](docs/6_科技/终极算法.md)
@@ -68,11 +69,13 @@
     * [Coursera_LearningHowToLearn<sup style = "color:red">2090字<sup>](docs/Coursera/Coursera_LearningHowToLearn.md)
     * [真格基金创业课<sup style = "color:red">5017字<sup>](docs/Coursera/真格基金创业课.md)
 * D_自我管理和项目管理
+    * [《原则》<sup style = "color:red">1045字<sup>](docs/D_自我管理和项目管理/《原则》.md)
     * [《成大事者不纠结》<sup style = "color:red">2428字<sup>](docs/D_自我管理和项目管理/《成大事者不纠结》.md)
-    * [个人修养<sup style = "color:red">327字<sup>](docs/D_自我管理和项目管理/个人修养.md)
+    * [个人修养<sup style = "color:red">47字<sup>](docs/D_自我管理和项目管理/个人修养.md)
     * [如何学习<sup style = "color:red">2658字<sup>](docs/D_自我管理和项目管理/如何学习.md)
     * [工作部署<sup style = "color:red">11415字<sup>](docs/D_自我管理和项目管理/工作部署.md)
     * [敏捷<sup style = "color:red">3815字<sup>](docs/D_自我管理和项目管理/敏捷.md)
+    * [礼仪<sup style = "color:red">1645字<sup>](docs/D_自我管理和项目管理/礼仪.md)
     * [罗伯特议事法<sup style = "color:red">868字<sup>](docs/D_自我管理和项目管理/罗伯特议事法.md)
     * [逆向管理<sup style = "color:red">221字<sup>](docs/D_自我管理和项目管理/逆向管理.md)
     * [项目管理<sup style = "color:red">301字<sup>](docs/D_自我管理和项目管理/项目管理.md)
