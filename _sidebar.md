@@ -13,7 +13,7 @@
     * [J_日本<sup style = "color:red">8704字<sup>](docs/1_历史和哲学/J_日本.md)
     * [其它<sup style = "color:red">538字<sup>](docs/1_历史和哲学/其它.md)
     * [吴晓波<sup style = "color:red">3535字<sup>](docs/1_历史和哲学/吴晓波.md)
-    * [尤瓦尔赫拉利<sup style = "color:red">44738字<sup>](docs/1_历史和哲学/尤瓦尔赫拉利.md)
+    * [尤瓦尔赫拉利<sup style = "color:red">44787字<sup>](docs/1_历史和哲学/尤瓦尔赫拉利.md)
 * 2_社科读物
     * [1_经济学科普<sup style = "color:red">1939字<sup>](docs/2_社科读物/1_经济学科普.md)
     * [2_认知升级<sup style = "color:red">629字<sup>](docs/2_社科读物/2_认知升级.md)
@@ -69,7 +69,7 @@
     * [Coursera_LearningHowToLearn<sup style = "color:red">2090字<sup>](docs/Coursera/Coursera_LearningHowToLearn.md)
     * [真格基金创业课<sup style = "color:red">5017字<sup>](docs/Coursera/真格基金创业课.md)
 * D_自我管理和项目管理
-    * [《原则》<sup style = "color:red">1045字<sup>](docs/D_自我管理和项目管理/《原则》.md)
+    * [《原则》<sup style = "color:red">4660字<sup>](docs/D_自我管理和项目管理/《原则》.md)
     * [《成大事者不纠结》<sup style = "color:red">2428字<sup>](docs/D_自我管理和项目管理/《成大事者不纠结》.md)
     * [个人修养<sup style = "color:red">47字<sup>](docs/D_自我管理和项目管理/个人修养.md)
     * [如何学习<sup style = "color:red">2658字<sup>](docs/D_自我管理和项目管理/如何学习.md)
