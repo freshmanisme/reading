@@ -9,6 +9,7 @@
 
 
 - transfer: a chunk you have mastered in one area help you learn chunks in another areas
+
 ### path
 1. bottonm up: practice help you both build and strengthen
 2. top down :what you are learning and where it fits in
