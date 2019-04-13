@@ -7,7 +7,7 @@
     * [1_诸子百家<sup style = "color:red">1943字<sup>](docs/1_历史和哲学/1_诸子百家.md)
     * [2_佛家<sup style = "color:red">17473字<sup>](docs/1_历史和哲学/2_佛家.md)
     * [5_通史<sup style = "color:red">1652字<sup>](docs/1_历史和哲学/5_通史.md)
-    * [6_金融经济史<sup style = "color:red">3743字<sup>](docs/1_历史和哲学/6_金融经济史.md)
+    * [6_金融经济史<sup style = "color:red">3744字<sup>](docs/1_历史和哲学/6_金融经济史.md)
     * [7_人物传记<sup style = "color:red">2258字<sup>](docs/1_历史和哲学/7_人物传记.md)
     * [8_企业传记<sup style = "color:red">1672字<sup>](docs/1_历史和哲学/8_企业传记.md)
     * [J_日本<sup style = "color:red">8704字<sup>](docs/1_历史和哲学/J_日本.md)
@@ -19,6 +19,7 @@
     * [2_认知升级<sup style = "color:red">629字<sup>](docs/2_社科读物/2_认知升级.md)
     * [4_塔勒布<sup style = "color:red">5147字<sup>](docs/2_社科读物/4_塔勒布.md)
     * [5_凯文凯利<sup style = "color:red">18364字<sup>](docs/2_社科读物/5_凯文凯利.md)
+    * [《21世纪资本论》<sup style = "color:red">3225字<sup>](docs/2_社科读物/《21世纪资本论》.md)
     * [其它书<sup style = "color:red">936字<sup>](docs/2_社科读物/其它书.md)
     * [大国空巢<sup style = "color:red">2480字<sup>](docs/2_社科读物/大国空巢.md)
 * 4_进化论
@@ -66,12 +67,13 @@
     * [C_经济法<sup style = "color:red">6982字<sup>](docs/B1_社科学习笔记/C_经济法.md)
     * [电子商务<sup style = "color:red">6159字<sup>](docs/B1_社科学习笔记/电子商务.md)
 * Coursera
-    * [Coursera_LearningHowToLearn<sup style = "color:red">2090字<sup>](docs/Coursera/Coursera_LearningHowToLearn.md)
+    * [LearningHowToLearn<sup style = "color:red">2090字<sup>](docs/Coursera/LearningHowToLearn.md)
     * [真格基金创业课<sup style = "color:red">5017字<sup>](docs/Coursera/真格基金创业课.md)
 * D_自我管理和项目管理
-    * [《原则》<sup style = "color:red">13785字<sup>](docs/D_自我管理和项目管理/《原则》.md)
+    * [《原则》<sup style = "color:red">16016字<sup>](docs/D_自我管理和项目管理/《原则》.md)
     * [《成大事者不纠结》<sup style = "color:red">2428字<sup>](docs/D_自我管理和项目管理/《成大事者不纠结》.md)
     * [个人修养<sup style = "color:red">47字<sup>](docs/D_自我管理和项目管理/个人修养.md)
+    * [健康<sup style = "color:red">1080字<sup>](docs/D_自我管理和项目管理/健康.md)
     * [如何学习<sup style = "color:red">2658字<sup>](docs/D_自我管理和项目管理/如何学习.md)
     * [工作部署<sup style = "color:red">11415字<sup>](docs/D_自我管理和项目管理/工作部署.md)
     * [敏捷<sup style = "color:red">3815字<sup>](docs/D_自我管理和项目管理/敏捷.md)
