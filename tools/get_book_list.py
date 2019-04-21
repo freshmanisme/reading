@@ -60,4 +60,3 @@ pd_rolling=pd_rolling/120
 pd_rolling.plot()
 
 plt.show()
-
