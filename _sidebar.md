@@ -3,27 +3,28 @@
 <img src="http://www.guofei.site/public/img/me.png"  alt="回到blog" height="64" width="64">
 </a>
 
-* 1_历史和哲学
-    * [1_诸子百家<sup style = "color:red">1943字<sup>](docs/1_历史和哲学/1_诸子百家.md)
-    * [2_佛家<sup style = "color:red">17478字<sup>](docs/1_历史和哲学/2_佛家.md)
-    * [5_通史<sup style = "color:red">2766字<sup>](docs/1_历史和哲学/5_通史.md)
-    * [6_金融经济史<sup style = "color:red">3744字<sup>](docs/1_历史和哲学/6_金融经济史.md)
-    * [7_人物传记<sup style = "color:red">2258字<sup>](docs/1_历史和哲学/7_人物传记.md)
-    * [8_企业传记<sup style = "color:red">1672字<sup>](docs/1_历史和哲学/8_企业传记.md)
-    * [J_日本<sup style = "color:red">8704字<sup>](docs/1_历史和哲学/J_日本.md)
-    * [《哲学家都干了些什么》<sup style = "color:red">9376字<sup>](docs/1_历史和哲学/《哲学家都干了些什么》.md)
-    * [《西方哲学十五讲》<sup style = "color:red">18858字<sup>](docs/1_历史和哲学/《西方哲学十五讲》.md)
-    * [其它<sup style = "color:red">538字<sup>](docs/1_历史和哲学/其它.md)
-    * [吴晓波<sup style = "color:red">3535字<sup>](docs/1_历史和哲学/吴晓波.md)
-    * [尤瓦尔赫拉利<sup style = "color:red">44787字<sup>](docs/1_历史和哲学/尤瓦尔赫拉利.md)
-* 2_社科读物
-    * [1_经济学科普<sup style = "color:red">1939字<sup>](docs/2_社科读物/1_经济学科普.md)
-    * [2_认知升级<sup style = "color:red">629字<sup>](docs/2_社科读物/2_认知升级.md)
-    * [4_塔勒布<sup style = "color:red">5147字<sup>](docs/2_社科读物/4_塔勒布.md)
-    * [5_凯文凯利<sup style = "color:red">18364字<sup>](docs/2_社科读物/5_凯文凯利.md)
-    * [《21世纪资本论》<sup style = "color:red">3225字<sup>](docs/2_社科读物/《21世纪资本论》.md)
-    * [其它书<sup style = "color:red">936字<sup>](docs/2_社科读物/其它书.md)
-    * [大国空巢<sup style = "color:red">2480字<sup>](docs/2_社科读物/大国空巢.md)
+* 1_哲学
+    * [1_诸子百家<sup style = "color:red">4134字<sup>](docs/1_哲学/1_诸子百家.md)
+    * [2_佛家<sup style = "color:red">17478字<sup>](docs/1_哲学/2_佛家.md)
+    * [8_企业传记<sup style = "color:red">1672字<sup>](docs/1_哲学/8_企业传记.md)
+    * [《哲学家们都干了些什么》<sup style = "color:red">20597字<sup>](docs/1_哲学/《哲学家们都干了些什么》.md)
+    * [《西方哲学十五讲》<sup style = "color:red">18858字<sup>](docs/1_哲学/《西方哲学十五讲》.md)
+* 2_历史
+    * [5_通史<sup style = "color:red">2766字<sup>](docs/2_历史/5_通史.md)
+    * [6_金融经济史<sup style = "color:red">3744字<sup>](docs/2_历史/6_金融经济史.md)
+    * [7_人物传记<sup style = "color:red">2258字<sup>](docs/2_历史/7_人物传记.md)
+    * [J_日本<sup style = "color:red">8704字<sup>](docs/2_历史/J_日本.md)
+    * [其它<sup style = "color:red">906字<sup>](docs/2_历史/其它.md)
+    * [吴晓波<sup style = "color:red">3535字<sup>](docs/2_历史/吴晓波.md)
+    * [尤瓦尔赫拉利<sup style = "color:red">44787字<sup>](docs/2_历史/尤瓦尔赫拉利.md)
+* 3_社科读物
+    * [1_经济学科普<sup style = "color:red">1939字<sup>](docs/3_社科读物/1_经济学科普.md)
+    * [2_认知升级<sup style = "color:red">629字<sup>](docs/3_社科读物/2_认知升级.md)
+    * [4_塔勒布<sup style = "color:red">5147字<sup>](docs/3_社科读物/4_塔勒布.md)
+    * [5_凯文凯利<sup style = "color:red">18364字<sup>](docs/3_社科读物/5_凯文凯利.md)
+    * [《21世纪资本论》<sup style = "color:red">3225字<sup>](docs/3_社科读物/《21世纪资本论》.md)
+    * [其它书<sup style = "color:red">936字<sup>](docs/3_社科读物/其它书.md)
+    * [大国空巢<sup style = "color:red">2480字<sup>](docs/3_社科读物/大国空巢.md)
 * 4_进化论
     * [疯狂人类进化史<sup style = "color:red">450字<sup>](docs/4_进化论/疯狂人类进化史.md)
     * [裸猿三部曲<sup style = "color:red">3057字<sup>](docs/4_进化论/裸猿三部曲.md)
