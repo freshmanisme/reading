@@ -6,7 +6,7 @@
 * 1_哲学
     * [1_诸子百家<sup style = "color:red">4134字<sup>](docs/1_哲学/1_诸子百家.md)
     * [2_佛学<sup style = "color:red">17478字<sup>](docs/1_哲学/2_佛学.md)
-    * [《哲学家们都干了些什么》<sup style = "color:red">20597字<sup>](docs/1_哲学/《哲学家们都干了些什么》.md)
+    * [《哲学家们都干了些什么》<sup style = "color:red">20569字<sup>](docs/1_哲学/《哲学家们都干了些什么》.md)
     * [《西方哲学十五讲》<sup style = "color:red">18858字<sup>](docs/1_哲学/《西方哲学十五讲》.md)
 * 2_历史
     * [5_通史<sup style = "color:red">2766字<sup>](docs/2_历史/5_通史.md)
