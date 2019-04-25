@@ -6,15 +6,16 @@
 * 1_哲学
     * [1_诸子百家<sup style = "color:red">4134字<sup>](docs/1_哲学/1_诸子百家.md)
     * [2_佛学<sup style = "color:red">17478字<sup>](docs/1_哲学/2_佛学.md)
-    * [《哲学家们都干了些什么》<sup style = "color:red">20569字<sup>](docs/1_哲学/《哲学家们都干了些什么》.md)
+    * [《哲学家们都干了些什么》<sup style = "color:red">20579字<sup>](docs/1_哲学/《哲学家们都干了些什么》.md)
     * [《西方哲学十五讲》<sup style = "color:red">18858字<sup>](docs/1_哲学/《西方哲学十五讲》.md)
 * 2_历史
-    * [5_通史<sup style = "color:red">2766字<sup>](docs/2_历史/5_通史.md)
+    * [1_中国历史<sup style = "color:red">2207字<sup>](docs/2_历史/1_中国历史.md)
+    * [5_通史<sup style = "color:red">1916字<sup>](docs/2_历史/5_通史.md)
     * [6_金融经济史<sup style = "color:red">3744字<sup>](docs/2_历史/6_金融经济史.md)
     * [7_人物传记<sup style = "color:red">2258字<sup>](docs/2_历史/7_人物传记.md)
     * [8_企业传记<sup style = "color:red">1672字<sup>](docs/2_历史/8_企业传记.md)
     * [J_日本<sup style = "color:red">8704字<sup>](docs/2_历史/J_日本.md)
-    * [其它<sup style = "color:red">906字<sup>](docs/2_历史/其它.md)
+    * [其它<sup style = "color:red">2169字<sup>](docs/2_历史/其它.md)
     * [吴晓波<sup style = "color:red">3535字<sup>](docs/2_历史/吴晓波.md)
     * [尤瓦尔赫拉利<sup style = "color:red">44787字<sup>](docs/2_历史/尤瓦尔赫拉利.md)
 * 3_社科读物
