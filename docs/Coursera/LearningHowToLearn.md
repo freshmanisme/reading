@@ -1,6 +1,8 @@
-## chuck
 
-### create chuck
+## 《Learning How To Learn》
+### chuck
+
+#### create chuck
 
 1. Focused attention
 2. understand
@@ -10,11 +12,11 @@
 
 - transfer: a chunk you have mastered in one area help you learn chunks in another areas
 
-### path
+#### path
 1. bottonm up: practice help you both build and strengthen
 2. top down :what you are learning and where it fits in
 
-## getting your learning on track
+### getting your learning on track
 
 1. importance of recall
     - 在不同的地方学习
@@ -29,7 +31,7 @@
 3. mini-testing
 4. value of making mistakes
 
-## chuck2
+### chuck2
 what motivate you?
 neuromodulator system：
 1. Acetylcholine(乙酰胆碱)
@@ -45,7 +47,7 @@ neuromodulator system：
 - emotion
 - amygdala(杏仁核)
 
-## Library of chucks
+### Library of chucks
 - sequential
 - Holistic
 
@@ -59,8 +61,8 @@ overlearning
 
 
 
-# procrastination(拖延)&memory
-## zombies
+## procrastination(拖延)&memory
+### zombies
 - minimizing your use of willpower
 - chucking is related to habit. habit is an energy saver for us.
 
@@ -77,11 +79,11 @@ habits have 4 parts:
     1.
 4. belief
 
-## Process vs product
+### Process vs product
 - focus on process  not on product
 - The product triggers the pain that causes you to procrastinate
 
-## juggling life and learning
+### juggling life and learning
 
 1. weekly list of key tasks
 2. Daily to do list: write it down the evening before
@@ -89,14 +91,14 @@ write down : free your working memory
 - plan your quitting time
 - do most difficult and most dislike first
 
-# long term memory
+## long term memory
 
 - glial cell(胶质细胞)
     - astrocytes(星形胶质细胞)（最多）
 
 - memory palace technique
 
-# week4:Renaissance Learning and Unlocking Your Potential
+## week4:Renaissance Learning and Unlocking Your Potential
 how to more profitably interact with fellow learners, how to recognize your own strengths, and how to avoid the 'imposter syndrome.'（冒名顶替综合征）
 - physical exercise
 - 大脑发展的黄金时期
@@ -108,5 +110,5 @@ how to more profitably interact with fellow learners, how to recognize your own 
 - work profitably with teammates
 - perform well on tests
 
-# week4-2
+## week4-2
 - right hemisphere help us step back and put our work into big picture perspective
