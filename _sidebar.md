@@ -8,7 +8,7 @@
     * [2_佛学<sup style = "color:red">17478字<sup>](docs/1_哲学/2_佛学.md)
     * [《上帝掷骰子吗》<sup style = "color:red">8776字<sup>](docs/1_哲学/《上帝掷骰子吗》.md)
     * [《原则》<sup style = "color:red">16012字<sup>](docs/1_哲学/《原则》.md)
-    * [《哲学家们都干了些什么》<sup style = "color:red">20591字<sup>](docs/1_哲学/《哲学家们都干了些什么》.md)
+    * [《哲学家们都干了些什么》<sup style = "color:red">20609字<sup>](docs/1_哲学/《哲学家们都干了些什么》.md)
     * [《西方哲学十五讲》（中断）<sup style = "color:red">21143字<sup>](docs/1_哲学/《西方哲学十五讲》（中断）.md)
 * 2_历史
     * [1_尤瓦尔赫拉利<sup style = "color:red">44787字<sup>](docs/2_历史/1_尤瓦尔赫拉利.md)
