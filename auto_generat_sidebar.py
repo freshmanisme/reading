@@ -2,12 +2,24 @@
 
 # %%
 import os
+import re
+import string
 
+# 字数统计
+regex_chinese = re.compile('[\u4e00-\u9fa5]') # 汉字
+regex_English = re.compile('[0-9a-zA_Z]+') # 数字和英语单词
+# 中文标点和英文标点
+regex_punctuation = re.compile('[!"()*+,./:;<=>?{|}~。；，：“”（）、？《》]')
 
 def word_count(file_name_md):
     f = open(file_name_md, 'r', encoding='utf-8')
     passages = f.readlines()
-    word_num = sum([len(passage.replace('\n', '').replace(' ', '')) for passage in passages])
+    # word_num = sum([len(passage.replace('\n', '').replace(' ', '')) for passage in passages])
+    word_num = sum([len(regex_chinese.findall(passage))
+                    + len(regex_English.findall(passage))
+                    + len(regex_punctuation.findall(passage))
+                    for passage in passages])
+
     f.close()
     return word_num
 
@@ -148,4 +160,3 @@ def word_ana():
     plotly.offline.plot(fig, filename='c:\\abc\\example.html')
 
 # word_ana()
-
