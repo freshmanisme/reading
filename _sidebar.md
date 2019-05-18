@@ -22,7 +22,7 @@
     * [J_日本专题<sup style = "color:red">8560字<sup>](docs/2_历史/J_日本专题.md)
     * [其它<sup style = "color:red">2046字<sup>](docs/2_历史/其它.md)
 * 3_社科读物
-    * [1_经济学读物<sup style = "color:red">2803字<sup>](docs/3_社科读物/1_经济学读物.md)
+    * [1_经济学读物<sup style = "color:red">3021字<sup>](docs/3_社科读物/1_经济学读物.md)
     * [2_认知升级<sup style = "color:red">463字<sup>](docs/3_社科读物/2_认知升级.md)
     * [4_塔勒布<sup style = "color:red">4984字<sup>](docs/3_社科读物/4_塔勒布.md)
     * [5_凯文凯利<sup style = "color:red">17373字<sup>](docs/3_社科读物/5_凯文凯利.md)
