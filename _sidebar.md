@@ -6,7 +6,7 @@
 * 1_哲学
     * [1_诸子百家<sup style = "color:red">4076字<sup>](docs/1_哲学/1_诸子百家.md)
     * [2_佛学<sup style = "color:red">17337字<sup>](docs/1_哲学/2_佛学.md)
-    * [3_西方哲学<sup style = "color:red">36514字<sup>](docs/1_哲学/3_西方哲学.md)
+    * [3_西方哲学<sup style = "color:red">49085字<sup>](docs/1_哲学/3_西方哲学.md)
     * [5_《哲学家们都干了些什么》<sup style = "color:red">20322字<sup>](docs/1_哲学/5_《哲学家们都干了些什么》.md)
     * [《上帝掷骰子吗》<sup style = "color:red">8142字<sup>](docs/1_哲学/《上帝掷骰子吗》.md)
     * [《原则》<sup style = "color:red">15441字<sup>](docs/1_哲学/《原则》.md)
@@ -22,7 +22,7 @@
     * [J_日本专题<sup style = "color:red">8560字<sup>](docs/2_历史/J_日本专题.md)
     * [其它<sup style = "color:red">2046字<sup>](docs/2_历史/其它.md)
 * 3_社科读物
-    * [1_经济学读物<sup style = "color:red">2004字<sup>](docs/3_社科读物/1_经济学读物.md)
+    * [1_经济学读物<sup style = "color:red">2803字<sup>](docs/3_社科读物/1_经济学读物.md)
     * [2_认知升级<sup style = "color:red">463字<sup>](docs/3_社科读物/2_认知升级.md)
     * [4_塔勒布<sup style = "color:red">4984字<sup>](docs/3_社科读物/4_塔勒布.md)
     * [5_凯文凯利<sup style = "color:red">17373字<sup>](docs/3_社科读物/5_凯文凯利.md)
