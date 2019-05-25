@@ -79,6 +79,7 @@
     * [《成大事者不纠结》<sup style = "color:red">2336字<sup>](docs/D_自我管理和项目管理/《成大事者不纠结》.md)
     * [个人修养<sup style = "color:red">38字<sup>](docs/D_自我管理和项目管理/个人修养.md)
     * [健康<sup style = "color:red">978字<sup>](docs/D_自我管理和项目管理/健康.md)
+    * [吉姆柯林斯<sup style = "color:red">3661字<sup>](docs/D_自我管理和项目管理/吉姆柯林斯.md)
     * [如何学习<sup style = "color:red">2560字<sup>](docs/D_自我管理和项目管理/如何学习.md)
     * [工作部署<sup style = "color:red">10819字<sup>](docs/D_自我管理和项目管理/工作部署.md)
     * [敏捷<sup style = "color:red">3726字<sup>](docs/D_自我管理和项目管理/敏捷.md)
