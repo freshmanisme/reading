@@ -714,36 +714,36 @@ section.cover blockquote > p > a:hover {
 
 
 .markdown-section h1 {
-    font-size: 3.5rem;
+    font-size: 2.25rem;
     margin: 0 0 1rem
 }
 
 .markdown-section h2 {
-    background: yellowgreen;
-    font-size: 3.5rem;
+    background: #c0cda5;
+    font-size: 2.25rem;
     margin: 45px 0 .8rem
 }
 
 .markdown-section h3,h4,h5 {
-    background: #c0cda5;
+    background: #e5f7f3;
 }
 
 .markdown-section h3 {
-    font-size: 2.75rem;
+    font-size: 1.5rem;
     margin: 40px 0 .6rem
 }
 
 .markdown-section h4 {
-    font-size: 1.5rem
+    font-size: 1rem
 }
 
 .markdown-section h5 {
-    font-size: 1rem
+    font-size: 0.875rem
 }
 
 .markdown-section h6 {
     color: #777;
-    font-size: 1rem
+    font-size: 0.75rem
 }
 
 .markdown-section figure, .markdown-section p {

@@ -85,7 +85,7 @@ class Tree:
         return 0 if (root is None) else root.word_num + sum([self.pre_order2(i) for i in root.children.values()])
 
 
-path = r'C:\Users\guofei8\Desktop\git\GitHub\reading\docs'
+path = os.getcwd() + r'\docs'
 tree = Tree(path)
 sidebar = tree.pre_order(tree.root.children[tree.path2])
 print(sidebar)
