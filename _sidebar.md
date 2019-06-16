@@ -76,7 +76,7 @@
     * [项目管理<sup style = "color:red">296字<sup>](docs/D_自我管理和项目管理/项目管理.md)
 * Y_碎片阅读
     * [冬吴相对论<sup style = "color:red">1548字<sup>](docs/Y_碎片阅读/冬吴相对论.md)
-    * [李永乐<sup style = "color:red">1000字<sup>](docs/Y_碎片阅读/李永乐.md)
+    * [李永乐<sup style = "color:red">1043字<sup>](docs/Y_碎片阅读/李永乐.md)
     * [物理脑洞<sup style = "color:red">1385字<sup>](docs/Y_碎片阅读/物理脑洞.md)
     * [知乎文章<sup style = "color:red">2758字<sup>](docs/Y_碎片阅读/知乎文章.md)
     * [罗振宇<sup style = "color:red">2630字<sup>](docs/Y_碎片阅读/罗振宇.md)
