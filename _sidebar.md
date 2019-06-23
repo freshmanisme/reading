@@ -4,7 +4,7 @@
 </a>
 
 * 1_哲学
-    * [1_诸子百家<sup style = "color:red">4076字<sup>](docs/1_哲学/1_诸子百家.md)
+    * [1_诸子百家<sup style = "color:red">4059字<sup>](docs/1_哲学/1_诸子百家.md)
     * [2_佛学<sup style = "color:red">17337字<sup>](docs/1_哲学/2_佛学.md)
     * [3_西方哲学<sup style = "color:red">49085字<sup>](docs/1_哲学/3_西方哲学.md)
     * [5_《哲学家们都干了些什么》<sup style = "color:red">20322字<sup>](docs/1_哲学/5_《哲学家们都干了些什么》.md)
@@ -31,22 +31,19 @@
     * [大国空巢<sup style = "color:red">2340字<sup>](docs/3_社科读物/大国空巢.md)
 * 4_进化论
     * [疯狂人类进化史<sup style = "color:red">427字<sup>](docs/4_进化论/疯狂人类进化史.md)
-    * [裸猿三部曲<sup style = "color:red">2927字<sup>](docs/4_进化论/裸猿三部曲.md)
+    * [裸猿三部曲（阅读中）<sup style = "color:red">2927字<sup>](docs/4_进化论/裸猿三部曲（阅读中）.md)
     * [进化论与生活<sup style = "color:red">1594字<sup>](docs/4_进化论/进化论与生活.md)
 * 5_批判性思维
     * [《清醒思考的艺术》<sup style = "color:red">991字<sup>](docs/5_批判性思维/《清醒思考的艺术》.md)
     * [《赤裸裸的统计学》<sup style = "color:red">1487字<sup>](docs/5_批判性思维/《赤裸裸的统计学》.md)
     * [批判性思维六册合辑<sup style = "color:red">8694字<sup>](docs/5_批判性思维/批判性思维六册合辑.md)
     * [统计数字会撒谎<sup style = "color:red">6560字<sup>](docs/5_批判性思维/统计数字会撒谎.md)
-    * [逻辑反驳<sup style = "color:red">2455字<sup>](docs/5_批判性思维/逻辑反驳.md)
+    * [逻辑辨析<sup style = "color:red">2455字<sup>](docs/5_批判性思维/逻辑辨析.md)
 * 6_科技
     * [1_物理读物<sup style = "color:red">4339字<sup>](docs/6_科技/1_物理读物.md)
-    * [2_技术展望<sup style = "color:red">3837字<sup>](docs/6_科技/2_技术展望.md)
+    * [2_科技（高分）<sup style = "color:red">3967字<sup>](docs/6_科技/2_科技（高分）.md)
     * [《信号与噪声》<sup style = "color:red">1501字<sup>](docs/6_科技/《信号与噪声》.md)
-    * [《数字化生存》<sup style = "color:red">130字<sup>](docs/6_科技/《数字化生存》.md)
-    * [其它<sup style = "color:red">858字<sup>](docs/6_科技/其它.md)
-    * [大数据<sup style = "color:red">1306字<sup>](docs/6_科技/大数据.md)
-    * [终极算法<sup style = "color:red">1762字<sup>](docs/6_科技/终极算法.md)
+    * [科技（中分）<sup style = "color:red">2167字<sup>](docs/6_科技/科技（中分）.md)
 * 8_小说
     * [刘慈欣<sup style = "color:red">6948字<sup>](docs/8_小说/刘慈欣.md)
     * [反乌托邦小说<sup style = "color:red">3315字<sup>](docs/8_小说/反乌托邦小说.md)
@@ -61,7 +58,6 @@
     * [武志红<sup style = "color:red">1354字<sup>](docs/9_心理学/武志红.md)
     * [行为心理学<sup style = "color:red">1163字<sup>](docs/9_心理学/行为心理学.md)
 * D_自我管理和项目管理
-    * [《人月神话》](docs/D_自我管理和项目管理/《人月神话》.md)
     * [《成大事者不纠结》<sup style = "color:red">2336字<sup>](docs/D_自我管理和项目管理/《成大事者不纠结》.md)
     * [个人修养<sup style = "color:red">38字<sup>](docs/D_自我管理和项目管理/个人修养.md)
     * [健康<sup style = "color:red">978字<sup>](docs/D_自我管理和项目管理/健康.md)
@@ -77,8 +73,7 @@
 * Y_碎片阅读
     * [冬吴相对论<sup style = "color:red">1548字<sup>](docs/Y_碎片阅读/冬吴相对论.md)
     * [李永乐<sup style = "color:red">1043字<sup>](docs/Y_碎片阅读/李永乐.md)
-    * [物理脑洞<sup style = "color:red">1385字<sup>](docs/Y_碎片阅读/物理脑洞.md)
-    * [知乎文章<sup style = "color:red">2758字<sup>](docs/Y_碎片阅读/知乎文章.md)
+    * [知乎文章<sup style = "color:red">4112字<sup>](docs/Y_碎片阅读/知乎文章.md)
     * [罗振宇<sup style = "color:red">2630字<sup>](docs/Y_碎片阅读/罗振宇.md)
     * [高晓松<sup style = "color:red">314字<sup>](docs/Y_碎片阅读/高晓松.md)
 
