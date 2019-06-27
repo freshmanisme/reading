@@ -122,6 +122,11 @@ f = open('_sidebar.md', 'w', encoding='utf-8')
 f.write(head + content + tail)
 f.close()
 
+f = open('_main.md', 'w', encoding='utf-8')
+# print(head+content)
+# f.write(head+content.encode('utf-8').decode('utf-8'))
+f.write(content)
+f.close()
 
 # %%
 # 统计每个板块的字数

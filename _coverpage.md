@@ -8,4 +8,4 @@
 
 
 [GitHub](https://github.com/guofei9987/reading/)
-[Get Started](/_sidebar)
+[Get Started](/_main)
