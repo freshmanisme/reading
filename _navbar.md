@@ -1,5 +1,5 @@
-* 跳转
+<!-- * 跳转
     * [博客](http://www.guofei.site)
-    * [首页](http://www.guofei.site/reading)
+    * [首页](http://www.guofei.site/reading) -->
 * [博客](http://www.guofei.site)
-* [读书](http://www.guofei.site/reading/#/_main)
+* [读书](http://www.guofei.site/reading/)
