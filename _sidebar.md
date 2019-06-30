@@ -4,9 +4,9 @@
 </a>
 
 * 1_哲学
-    * [1_诸子百家<sup style = "color:red">4059字<sup>](docs/1_哲学/1_诸子百家.md)
-    * [2_佛学<sup style = "color:red">17337字<sup>](docs/1_哲学/2_佛学.md)
-    * [3_西方哲学<sup style = "color:red">49085字<sup>](docs/1_哲学/3_西方哲学.md)
+    * [1_西方哲学<sup style = "color:red">49085字<sup>](docs/1_哲学/1_西方哲学.md)
+    * [2_诸子百家<sup style = "color:red">4059字<sup>](docs/1_哲学/2_诸子百家.md)
+    * [3_佛家思想<sup style = "color:red">17337字<sup>](docs/1_哲学/3_佛家思想.md)
     * [5_《哲学家们都干了些什么》<sup style = "color:red">20322字<sup>](docs/1_哲学/5_《哲学家们都干了些什么》.md)
     * [《上帝掷骰子吗》<sup style = "color:red">8142字<sup>](docs/1_哲学/《上帝掷骰子吗》.md)
     * [《原则》<sup style = "color:red">15441字<sup>](docs/1_哲学/《原则》.md)
@@ -61,7 +61,7 @@
     * [《成大事者不纠结》<sup style = "color:red">2336字<sup>](docs/D_自我管理和项目管理/《成大事者不纠结》.md)
     * [个人修养<sup style = "color:red">38字<sup>](docs/D_自我管理和项目管理/个人修养.md)
     * [健康<sup style = "color:red">978字<sup>](docs/D_自我管理和项目管理/健康.md)
-    * [吉姆柯林斯<sup style = "color:red">3670字<sup>](docs/D_自我管理和项目管理/吉姆柯林斯.md)
+    * [吉姆柯林斯<sup style = "color:red">3724字<sup>](docs/D_自我管理和项目管理/吉姆柯林斯.md)
     * [如何学习<sup style = "color:red">2560字<sup>](docs/D_自我管理和项目管理/如何学习.md)
     * [工作部署<sup style = "color:red">10819字<sup>](docs/D_自我管理和项目管理/工作部署.md)
     * [敏捷<sup style = "color:red">3726字<sup>](docs/D_自我管理和项目管理/敏捷.md)
