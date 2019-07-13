@@ -766,7 +766,8 @@ section.cover blockquote > p > a:hover {
 }
 
 .markdown-section ol, .markdown-section ul {
-    padding-left: 1.5rem
+    margin-top: 0px;
+    padding-left: 1.5rem    
 }
 
 .markdown-section blockquote {

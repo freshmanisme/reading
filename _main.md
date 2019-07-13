@@ -7,7 +7,7 @@
     * [《原则》<sup style = "color:red">15441字<sup>](docs/1_哲学/《原则》.md)
     * [《苏菲的世界》<sup style = "color:red">4583字<sup>](docs/1_哲学/《苏菲的世界》.md)
 * 2_历史
-    * [1_尤瓦尔赫拉利<sup style = "color:red">43746字<sup>](docs/2_历史/1_尤瓦尔赫拉利.md)
+    * [1_尤瓦尔赫拉利<sup style = "color:red">43803字<sup>](docs/2_历史/1_尤瓦尔赫拉利.md)
     * [2_吴晓波<sup style = "color:red">3387字<sup>](docs/2_历史/2_吴晓波.md)
     * [4_中国史<sup style = "color:red">2089字<sup>](docs/2_历史/4_中国史.md)
     * [5_世界史<sup style = "color:red">1770字<sup>](docs/2_历史/5_世界史.md)
@@ -19,7 +19,7 @@
 * 3_社科读物
     * [1_经济学读物<sup style = "color:red">3021字<sup>](docs/3_社科读物/1_经济学读物.md)
     * [2_认知升级<sup style = "color:red">463字<sup>](docs/3_社科读物/2_认知升级.md)
-    * [4_塔勒布<sup style = "color:red">6500字<sup>](docs/3_社科读物/4_塔勒布.md)
+    * [4_塔勒布<sup style = "color:red">6886字<sup>](docs/3_社科读物/4_塔勒布.md)
     * [5_凯文凯利<sup style = "color:red">17373字<sup>](docs/3_社科读物/5_凯文凯利.md)
     * [《21世纪资本论》(阅读中)<sup style = "color:red">2886字<sup>](docs/3_社科读物/《21世纪资本论》(阅读中).md)
     * [其它书<sup style = "color:red">887字<sup>](docs/3_社科读物/其它书.md)
@@ -47,6 +47,7 @@
     * [阿西莫夫<sup style = "color:red">44字<sup>](docs/8_小说/阿西莫夫.md)
 * 9_心理学
     * [UI设计<sup style = "color:red">158字<sup>](docs/9_心理学/UI设计.md)
+    * [《心理学十五讲》<sup style = "color:red">14705字<sup>](docs/9_心理学/《心理学十五讲》.md)
     * [天才症候群<sup style = "color:red">335字<sup>](docs/9_心理学/天才症候群.md)
     * [心理学与生活<sup style = "color:red">375字<sup>](docs/9_心理学/心理学与生活.md)
     * [心理学效应<sup style = "color:red">979字<sup>](docs/9_心理学/心理学效应.md)
@@ -62,12 +63,12 @@
     * [敏捷<sup style = "color:red">3726字<sup>](docs/D_自我管理和项目管理/敏捷.md)
     * [礼仪<sup style = "color:red">1330字<sup>](docs/D_自我管理和项目管理/礼仪.md)
     * [罗伯特议事法<sup style = "color:red">841字<sup>](docs/D_自我管理和项目管理/罗伯特议事法.md)
-    * [观人<sup style = "color:red">142字<sup>](docs/D_自我管理和项目管理/观人.md)
+    * [观人<sup style = "color:red">241字<sup>](docs/D_自我管理和项目管理/观人.md)
     * [逆向管理<sup style = "color:red">215字<sup>](docs/D_自我管理和项目管理/逆向管理.md)
     * [项目管理<sup style = "color:red">296字<sup>](docs/D_自我管理和项目管理/项目管理.md)
 * Y_碎片阅读
     * [冬吴相对论<sup style = "color:red">1548字<sup>](docs/Y_碎片阅读/冬吴相对论.md)
     * [李永乐<sup style = "color:red">1043字<sup>](docs/Y_碎片阅读/李永乐.md)
     * [知乎文章<sup style = "color:red">4112字<sup>](docs/Y_碎片阅读/知乎文章.md)
-    * [罗振宇<sup style = "color:red">2773字<sup>](docs/Y_碎片阅读/罗振宇.md)
+    * [罗振宇<sup style = "color:red">2887字<sup>](docs/Y_碎片阅读/罗振宇.md)
     * [高晓松<sup style = "color:red">314字<sup>](docs/Y_碎片阅读/高晓松.md)
