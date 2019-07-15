@@ -16,14 +16,14 @@
     * [8_企业传记<sup style = "color:red">1540字<sup>](docs/2_历史/8_企业传记.md)
     * [J_日本专题<sup style = "color:red">8560字<sup>](docs/2_历史/J_日本专题.md)
     * [其它<sup style = "color:red">2046字<sup>](docs/2_历史/其它.md)
-* 3_社科读物
-    * [1_经济学读物<sup style = "color:red">3021字<sup>](docs/3_社科读物/1_经济学读物.md)
-    * [2_认知升级<sup style = "color:red">463字<sup>](docs/3_社科读物/2_认知升级.md)
-    * [4_塔勒布<sup style = "color:red">6886字<sup>](docs/3_社科读物/4_塔勒布.md)
-    * [5_凯文凯利<sup style = "color:red">17373字<sup>](docs/3_社科读物/5_凯文凯利.md)
-    * [《21世纪资本论》(阅读中)<sup style = "color:red">2886字<sup>](docs/3_社科读物/《21世纪资本论》(阅读中).md)
-    * [其它书<sup style = "color:red">887字<sup>](docs/3_社科读物/其它书.md)
-    * [大国空巢<sup style = "color:red">2340字<sup>](docs/3_社科读物/大国空巢.md)
+* 3_社科
+    * [1_经济学读物<sup style = "color:red">3021字<sup>](docs/3_社科/1_经济学读物.md)
+    * [2_认知升级<sup style = "color:red">463字<sup>](docs/3_社科/2_认知升级.md)
+    * [4_塔勒布<sup style = "color:red">6886字<sup>](docs/3_社科/4_塔勒布.md)
+    * [5_凯文凯利<sup style = "color:red">17373字<sup>](docs/3_社科/5_凯文凯利.md)
+    * [《21世纪资本论》(阅读中)<sup style = "color:red">2886字<sup>](docs/3_社科/《21世纪资本论》(阅读中).md)
+    * [其它书<sup style = "color:red">887字<sup>](docs/3_社科/其它书.md)
+    * [大国空巢<sup style = "color:red">2340字<sup>](docs/3_社科/大国空巢.md)
 * 4_进化论
     * [疯狂人类进化史<sup style = "color:red">427字<sup>](docs/4_进化论/疯狂人类进化史.md)
     * [裸猿三部曲（阅读中）<sup style = "color:red">2927字<sup>](docs/4_进化论/裸猿三部曲（阅读中）.md)
@@ -33,11 +33,12 @@
     * [《赤裸裸的统计学》<sup style = "color:red">1487字<sup>](docs/5_批判性思维/《赤裸裸的统计学》.md)
     * [批判性思维六册合辑<sup style = "color:red">8694字<sup>](docs/5_批判性思维/批判性思维六册合辑.md)
     * [统计数字会撒谎<sup style = "color:red">6560字<sup>](docs/5_批判性思维/统计数字会撒谎.md)
-    * [逻辑辨析<sup style = "color:red">2455字<sup>](docs/5_批判性思维/逻辑辨析.md)
+    * [逻辑辨析<sup style = "color:red">2456字<sup>](docs/5_批判性思维/逻辑辨析.md)
 * 6_科技
     * [1_物理读物<sup style = "color:red">4333字<sup>](docs/6_科技/1_物理读物.md)
     * [2_科技（高分）<sup style = "color:red">3967字<sup>](docs/6_科技/2_科技（高分）.md)
     * [《信号与噪声》<sup style = "color:red">1501字<sup>](docs/6_科技/《信号与噪声》.md)
+    * [《复杂》<sup style = "color:red">1482字<sup>](docs/6_科技/《复杂》.md)
     * [科技（中分）<sup style = "color:red">2167字<sup>](docs/6_科技/科技（中分）.md)
 * 8_小说
     * [刘慈欣<sup style = "color:red">6948字<sup>](docs/8_小说/刘慈欣.md)
@@ -46,12 +47,11 @@
     * [科幻短篇<sup style = "color:red">1023字<sup>](docs/8_小说/科幻短篇.md)
     * [阿西莫夫<sup style = "color:red">44字<sup>](docs/8_小说/阿西莫夫.md)
 * 9_心理学
-    * [UI设计<sup style = "color:red">158字<sup>](docs/9_心理学/UI设计.md)
-    * [《心理学十五讲》<sup style = "color:red">14705字<sup>](docs/9_心理学/《心理学十五讲》.md)
-    * [天才症候群<sup style = "color:red">335字<sup>](docs/9_心理学/天才症候群.md)
-    * [心理学与生活<sup style = "color:red">375字<sup>](docs/9_心理学/心理学与生活.md)
+    * [1_《心理学十五讲》<sup style = "color:red">14729字<sup>](docs/9_心理学/1_《心理学十五讲》.md)
+    * [2_武志红<sup style = "color:red">1354字<sup>](docs/9_心理学/2_武志红.md)
+    * [3_《非暴力沟通》<sup style = "color:red">1884字<sup>](docs/9_心理学/3_《非暴力沟通》.md)
+    * [5_心理学读物<sup style = "color:red">870字<sup>](docs/9_心理学/5_心理学读物.md)
     * [心理学效应<sup style = "color:red">979字<sup>](docs/9_心理学/心理学效应.md)
-    * [武志红<sup style = "color:red">1354字<sup>](docs/9_心理学/武志红.md)
     * [行为心理学<sup style = "color:red">1163字<sup>](docs/9_心理学/行为心理学.md)
 * D_自我管理和项目管理
     * [《成大事者不纠结》<sup style = "color:red">2336字<sup>](docs/D_自我管理和项目管理/《成大事者不纠结》.md)
