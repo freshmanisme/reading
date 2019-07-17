@@ -43,7 +43,7 @@
     * [1_物理读物<sup style = "color:red">4333字<sup>](docs/6_科技/1_物理读物.md)
     * [2_科技（高分）<sup style = "color:red">3967字<sup>](docs/6_科技/2_科技（高分）.md)
     * [《信号与噪声》<sup style = "color:red">1501字<sup>](docs/6_科技/《信号与噪声》.md)
-    * [《复杂》<sup style = "color:red">1482字<sup>](docs/6_科技/《复杂》.md)
+    * [《复杂》<sup style = "color:red">6148字<sup>](docs/6_科技/《复杂》.md)
     * [科技（中分）<sup style = "color:red">2167字<sup>](docs/6_科技/科技（中分）.md)
 * 8_小说
     * [刘慈欣<sup style = "color:red">6948字<sup>](docs/8_小说/刘慈欣.md)
