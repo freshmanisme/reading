@@ -10,12 +10,12 @@
     * [1_尤瓦尔赫拉利<sup style = "color:red">43803字<sup>](docs/2_历史/1_尤瓦尔赫拉利.md)
     * [2_吴晓波<sup style = "color:red">3387字<sup>](docs/2_历史/2_吴晓波.md)
     * [4_中国史<sup style = "color:red">2089字<sup>](docs/2_历史/4_中国史.md)
-    * [5_世界史<sup style = "color:red">1770字<sup>](docs/2_历史/5_世界史.md)
+    * [5_世界史<sup style = "color:red">1836字<sup>](docs/2_历史/5_世界史.md)
     * [6_经济史<sup style = "color:red">3070字<sup>](docs/2_历史/6_经济史.md)
     * [7_人物传记<sup style = "color:red">2230字<sup>](docs/2_历史/7_人物传记.md)
     * [8_企业传记<sup style = "color:red">1540字<sup>](docs/2_历史/8_企业传记.md)
     * [J_日本专题<sup style = "color:red">8560字<sup>](docs/2_历史/J_日本专题.md)
-    * [其它<sup style = "color:red">2046字<sup>](docs/2_历史/其它.md)
+    * [其它<sup style = "color:red">2487字<sup>](docs/2_历史/其它.md)
 * 3_社科
     * [1_经济学读物<sup style = "color:red">3021字<sup>](docs/3_社科/1_经济学读物.md)
     * [2_认知升级<sup style = "color:red">463字<sup>](docs/3_社科/2_认知升级.md)
@@ -38,7 +38,7 @@
     * [1_物理读物<sup style = "color:red">4333字<sup>](docs/6_科技/1_物理读物.md)
     * [2_科技（高分）<sup style = "color:red">3967字<sup>](docs/6_科技/2_科技（高分）.md)
     * [《信号与噪声》<sup style = "color:red">1501字<sup>](docs/6_科技/《信号与噪声》.md)
-    * [《复杂》<sup style = "color:red">1482字<sup>](docs/6_科技/《复杂》.md)
+    * [《复杂》<sup style = "color:red">6148字<sup>](docs/6_科技/《复杂》.md)
     * [科技（中分）<sup style = "color:red">2167字<sup>](docs/6_科技/科技（中分）.md)
 * 8_小说
     * [刘慈欣<sup style = "color:red">6948字<sup>](docs/8_小说/刘慈欣.md)
