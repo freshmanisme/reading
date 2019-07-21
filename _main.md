@@ -22,6 +22,7 @@
     * [4_塔勒布<sup style = "color:red">6886字<sup>](docs/3_社科/4_塔勒布.md)
     * [5_凯文凯利<sup style = "color:red">17373字<sup>](docs/3_社科/5_凯文凯利.md)
     * [《21世纪资本论》(阅读中)<sup style = "color:red">2886字<sup>](docs/3_社科/《21世纪资本论》(阅读中).md)
+    * [《民主的细节》<sup style = "color:red">411字<sup>](docs/3_社科/《民主的细节》.md)
     * [其它书<sup style = "color:red">887字<sup>](docs/3_社科/其它书.md)
     * [大国空巢<sup style = "color:red">2340字<sup>](docs/3_社科/大国空巢.md)
 * 4_进化论
@@ -39,6 +40,7 @@
     * [2_科技（高分）<sup style = "color:red">3967字<sup>](docs/6_科技/2_科技（高分）.md)
     * [《信号与噪声》<sup style = "color:red">1501字<sup>](docs/6_科技/《信号与噪声》.md)
     * [《复杂》<sup style = "color:red">6148字<sup>](docs/6_科技/《复杂》.md)
+    * [《认知盈余》<sup style = "color:red">839字<sup>](docs/6_科技/《认知盈余》.md)
     * [科技（中分）<sup style = "color:red">2167字<sup>](docs/6_科技/科技（中分）.md)
 * 8_小说
     * [刘慈欣<sup style = "color:red">6948字<sup>](docs/8_小说/刘慈欣.md)
@@ -67,6 +69,7 @@
     * [逆向管理<sup style = "color:red">215字<sup>](docs/D_自我管理和项目管理/逆向管理.md)
     * [项目管理<sup style = "color:red">296字<sup>](docs/D_自我管理和项目管理/项目管理.md)
 * Y_碎片阅读
+    * [其他<sup style = "color:red">3760字<sup>](docs/Y_碎片阅读/其他.md)
     * [冬吴相对论<sup style = "color:red">1548字<sup>](docs/Y_碎片阅读/冬吴相对论.md)
     * [李永乐<sup style = "color:red">1043字<sup>](docs/Y_碎片阅读/李永乐.md)
     * [知乎文章<sup style = "color:red">4112字<sup>](docs/Y_碎片阅读/知乎文章.md)
