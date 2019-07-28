@@ -51,7 +51,7 @@
 * 9_心理学
     * [1_《心理学十五讲》<sup style = "color:red">14729字<sup>](docs/9_心理学/1_《心理学十五讲》.md)
     * [2_武志红<sup style = "color:red">1354字<sup>](docs/9_心理学/2_武志红.md)
-    * [3_《非暴力沟通》<sup style = "color:red">1884字<sup>](docs/9_心理学/3_《非暴力沟通》.md)
+    * [3_《非暴力沟通》<sup style = "color:red">1991字<sup>](docs/9_心理学/3_《非暴力沟通》.md)
     * [5_心理学读物<sup style = "color:red">870字<sup>](docs/9_心理学/5_心理学读物.md)
     * [心理学效应<sup style = "color:red">979字<sup>](docs/9_心理学/心理学效应.md)
     * [行为心理学<sup style = "color:red">1163字<sup>](docs/9_心理学/行为心理学.md)
@@ -69,7 +69,7 @@
     * [逆向管理<sup style = "color:red">215字<sup>](docs/D_自我管理和项目管理/逆向管理.md)
     * [项目管理<sup style = "color:red">296字<sup>](docs/D_自我管理和项目管理/项目管理.md)
 * Y_碎片阅读
-    * [其他<sup style = "color:red">3760字<sup>](docs/Y_碎片阅读/其他.md)
+    * [其他<sup style = "color:red">3727字<sup>](docs/Y_碎片阅读/其他.md)
     * [冬吴相对论<sup style = "color:red">1548字<sup>](docs/Y_碎片阅读/冬吴相对论.md)
     * [李永乐<sup style = "color:red">1043字<sup>](docs/Y_碎片阅读/李永乐.md)
     * [知乎文章<sup style = "color:red">4112字<sup>](docs/Y_碎片阅读/知乎文章.md)

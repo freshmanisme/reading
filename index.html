@@ -16,12 +16,12 @@
 <body>
 
   <div id="app"></div>
-  <script>
+  <!-- <script>
     window.$docsify = {
       name: '',
       repo: ''
     }
-  </script>
+  </script> -->
 
 
 <script>
@@ -63,14 +63,15 @@
       plugins: [
         function (hook, vm) {
           hook.beforeEach(function (html) {
-            var url
-            if (/githubusercontent\.com/.test(vm.route.file)) {
-              url = vm.route.file
-                .replace('raw.githubusercontent.com', 'github.com')
-                .replace(/\/master/, '/blob/master')
-            } else {
-              url = 'https://github.com/guofei9987/reading/blob/master/' + vm.route.file
-            }
+            // var url
+            // if (/githubusercontent\.com/.test(vm.route.file)) {
+            //   url = vm.route.file
+            //     .replace('raw.githubusercontent.com', 'github.com')
+            //     .replace(/\/master/, '/blob/master')
+            // } else {
+            //   url = 'https://github.com/guofei9987/reading/blob/master/' + vm.route.file
+            // }
+            var url = 'https://github.com/guofei9987/reading/blob/master/' + vm.route.file
             var editHtml = '[:memo: Edit](' + url + ')\n'
             return editHtml
               + html
@@ -79,6 +80,8 @@
               + ' '
               + editHtml
           })
+
+          
         }
       ]
 
