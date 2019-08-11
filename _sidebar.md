@@ -4,13 +4,13 @@
 </a>
 
 * 1_哲学
-    * [1_西方哲学<sup style = "color:red">49085字<sup>](docs/1_哲学/1_西方哲学.md)
+    * [1_西方哲学<sup style = "color:red">49132字<sup>](docs/1_哲学/1_西方哲学.md)
     * [2_诸子百家<sup style = "color:red">4059字<sup>](docs/1_哲学/2_诸子百家.md)
-    * [3_佛家思想<sup style = "color:red">17355字<sup>](docs/1_哲学/3_佛家思想.md)
-    * [5_《哲学家们都干了些什么》<sup style = "color:red">20322字<sup>](docs/1_哲学/5_《哲学家们都干了些什么》.md)
+    * [3_佛家思想<sup style = "color:red">17370字<sup>](docs/1_哲学/3_佛家思想.md)
+    * [5_《哲学家们都干了些什么》<sup style = "color:red">20326字<sup>](docs/1_哲学/5_《哲学家们都干了些什么》.md)
     * [《上帝掷骰子吗》<sup style = "color:red">8168字<sup>](docs/1_哲学/《上帝掷骰子吗》.md)
-    * [《原则》<sup style = "color:red">15441字<sup>](docs/1_哲学/《原则》.md)
-    * [《苏菲的世界》<sup style = "color:red">4583字<sup>](docs/1_哲学/《苏菲的世界》.md)
+    * [《原则》<sup style = "color:red">15468字<sup>](docs/1_哲学/《原则》.md)
+    * [《苏菲的世界》<sup style = "color:red">4610字<sup>](docs/1_哲学/《苏菲的世界》.md)
 * 2_历史
     * [1_尤瓦尔赫拉利<sup style = "color:red">43803字<sup>](docs/2_历史/1_尤瓦尔赫拉利.md)
     * [2_吴晓波<sup style = "color:red">3387字<sup>](docs/2_历史/2_吴晓波.md)
@@ -27,11 +27,13 @@
     * [4_塔勒布<sup style = "color:red">6886字<sup>](docs/3_社科/4_塔勒布.md)
     * [5_凯文凯利<sup style = "color:red">17373字<sup>](docs/3_社科/5_凯文凯利.md)
     * [《21世纪资本论》(阅读中)<sup style = "color:red">2886字<sup>](docs/3_社科/《21世纪资本论》(阅读中).md)
+    * [《格调》<sup style = "color:red">6630字<sup>](docs/3_社科/《格调》.md)
     * [《民主的细节》<sup style = "color:red">411字<sup>](docs/3_社科/《民主的细节》.md)
     * [其它书<sup style = "color:red">887字<sup>](docs/3_社科/其它书.md)
     * [大国空巢<sup style = "color:red">2340字<sup>](docs/3_社科/大国空巢.md)
 * 4_进化论
     * [疯狂人类进化史<sup style = "color:red">427字<sup>](docs/4_进化论/疯狂人类进化史.md)
+    * [自私的基因<sup style = "color:red">150字<sup>](docs/4_进化论/自私的基因.md)
     * [裸猿三部曲（阅读中）<sup style = "color:red">2927字<sup>](docs/4_进化论/裸猿三部曲（阅读中）.md)
     * [进化论与生活<sup style = "color:red">1594字<sup>](docs/4_进化论/进化论与生活.md)
 * 5_批判性思维
@@ -49,7 +51,7 @@
     * [科技（中分）<sup style = "color:red">2167字<sup>](docs/6_科技/科技（中分）.md)
 * 8_小说
     * [刘慈欣<sup style = "color:red">6948字<sup>](docs/8_小说/刘慈欣.md)
-    * [反乌托邦小说<sup style = "color:red">3315字<sup>](docs/8_小说/反乌托邦小说.md)
+    * [反乌托邦小说<sup style = "color:red">3800字<sup>](docs/8_小说/反乌托邦小说.md)
     * [杜拉拉<sup style = "color:red">13761字<sup>](docs/8_小说/杜拉拉.md)
     * [科幻短篇<sup style = "color:red">1023字<sup>](docs/8_小说/科幻短篇.md)
     * [阿西莫夫<sup style = "color:red">44字<sup>](docs/8_小说/阿西莫夫.md)
@@ -77,7 +79,7 @@
     * [其他<sup style = "color:red">3727字<sup>](docs/Y_碎片阅读/其他.md)
     * [冬吴相对论<sup style = "color:red">1548字<sup>](docs/Y_碎片阅读/冬吴相对论.md)
     * [李永乐<sup style = "color:red">1043字<sup>](docs/Y_碎片阅读/李永乐.md)
-    * [知乎文章<sup style = "color:red">4112字<sup>](docs/Y_碎片阅读/知乎文章.md)
+    * [知乎文章<sup style = "color:red">5145字<sup>](docs/Y_碎片阅读/知乎文章.md)
     * [罗振宇<sup style = "color:red">2887字<sup>](docs/Y_碎片阅读/罗振宇.md)
     * [高晓松<sup style = "color:red">314字<sup>](docs/Y_碎片阅读/高晓松.md)
 

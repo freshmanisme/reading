@@ -1,4 +1,6 @@
 
+## emoji
+http://emojihomepage.com/
 ## markdown 语法
 
 下面是分割线
