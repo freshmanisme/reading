@@ -10,7 +10,7 @@
     * [5_《哲学家们都干了些什么》<sup style = "color:red">20326字<sup>](docs/1_哲学/5_《哲学家们都干了些什么》.md)
     * [《上帝掷骰子吗》<sup style = "color:red">8168字<sup>](docs/1_哲学/《上帝掷骰子吗》.md)
     * [《原则》<sup style = "color:red">15468字<sup>](docs/1_哲学/《原则》.md)
-    * [《苏菲的世界》<sup style = "color:red">4610字<sup>](docs/1_哲学/《苏菲的世界》.md)
+    * [《苏菲的世界》<sup style = "color:red">4600字<sup>](docs/1_哲学/《苏菲的世界》.md)
 * 2_历史
     * [1_尤瓦尔赫拉利<sup style = "color:red">43803字<sup>](docs/2_历史/1_尤瓦尔赫拉利.md)
     * [2_吴晓波<sup style = "color:red">3387字<sup>](docs/2_历史/2_吴晓波.md)
@@ -33,7 +33,7 @@
     * [大国空巢<sup style = "color:red">2340字<sup>](docs/3_社科/大国空巢.md)
 * 4_进化论
     * [疯狂人类进化史<sup style = "color:red">427字<sup>](docs/4_进化论/疯狂人类进化史.md)
-    * [自私的基因<sup style = "color:red">150字<sup>](docs/4_进化论/自私的基因.md)
+    * [自私的基因<sup style = "color:red">3844字<sup>](docs/4_进化论/自私的基因.md)
     * [裸猿三部曲（阅读中）<sup style = "color:red">2927字<sup>](docs/4_进化论/裸猿三部曲（阅读中）.md)
     * [进化论与生活<sup style = "color:red">1594字<sup>](docs/4_进化论/进化论与生活.md)
 * 5_批判性思维
@@ -50,8 +50,8 @@
     * [《认知盈余》<sup style = "color:red">839字<sup>](docs/6_科技/《认知盈余》.md)
     * [科技（中分）<sup style = "color:red">2167字<sup>](docs/6_科技/科技（中分）.md)
 * 8_小说
-    * [刘慈欣<sup style = "color:red">6948字<sup>](docs/8_小说/刘慈欣.md)
-    * [反乌托邦小说<sup style = "color:red">3800字<sup>](docs/8_小说/反乌托邦小说.md)
+    * [刘慈欣<sup style = "color:red">7708字<sup>](docs/8_小说/刘慈欣.md)
+    * [反乌托邦小说<sup style = "color:red">3875字<sup>](docs/8_小说/反乌托邦小说.md)
     * [杜拉拉<sup style = "color:red">13761字<sup>](docs/8_小说/杜拉拉.md)
     * [科幻短篇<sup style = "color:red">1023字<sup>](docs/8_小说/科幻短篇.md)
     * [阿西莫夫<sup style = "color:red">44字<sup>](docs/8_小说/阿西莫夫.md)
@@ -70,7 +70,7 @@
     * [如何学习<sup style = "color:red">2560字<sup>](docs/D_自我管理和项目管理/如何学习.md)
     * [工作部署<sup style = "color:red">10819字<sup>](docs/D_自我管理和项目管理/工作部署.md)
     * [敏捷<sup style = "color:red">3726字<sup>](docs/D_自我管理和项目管理/敏捷.md)
-    * [礼仪<sup style = "color:red">1330字<sup>](docs/D_自我管理和项目管理/礼仪.md)
+    * [礼仪<sup style = "color:red">1469字<sup>](docs/D_自我管理和项目管理/礼仪.md)
     * [罗伯特议事法<sup style = "color:red">841字<sup>](docs/D_自我管理和项目管理/罗伯特议事法.md)
     * [观人<sup style = "color:red">241字<sup>](docs/D_自我管理和项目管理/观人.md)
     * [逆向管理<sup style = "color:red">215字<sup>](docs/D_自我管理和项目管理/逆向管理.md)
@@ -79,7 +79,7 @@
     * [其他<sup style = "color:red">3727字<sup>](docs/Y_碎片阅读/其他.md)
     * [冬吴相对论<sup style = "color:red">1548字<sup>](docs/Y_碎片阅读/冬吴相对论.md)
     * [李永乐<sup style = "color:red">1043字<sup>](docs/Y_碎片阅读/李永乐.md)
-    * [知乎文章<sup style = "color:red">5145字<sup>](docs/Y_碎片阅读/知乎文章.md)
+    * [知乎文章<sup style = "color:red">7399字<sup>](docs/Y_碎片阅读/知乎文章.md)
     * [罗振宇<sup style = "color:red">2887字<sup>](docs/Y_碎片阅读/罗振宇.md)
     * [高晓松<sup style = "color:red">314字<sup>](docs/Y_碎片阅读/高晓松.md)
 
