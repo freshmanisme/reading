@@ -2,18 +2,19 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>读书笔记</title>
+  <title>Document</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <!-- <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css"> -->
   <!-- buble, dark, dolphin, pure, vue -->
-  <link rel="stylesheet" href="vue.css">
+  <link rel="stylesheet" href="http://www.guofei.site/reading/vue.css">
   <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-defaults.css"> -->
 
 
 </head>
 <body>
+
   <div id="app"></div>
   <!-- <script>
     window.$docsify = {
@@ -21,6 +22,9 @@
       repo: ''
     }
   </script> -->
+
+
+
 
 
 <script>
@@ -35,11 +39,7 @@
     // 右上角的小下拉图标
 
     // 封面
-      coverpage: {
-    '/': '_coverpage.md',
-    '/course/': '_coverpage.md',
-	'/matlab/': '_coverpage.md',
-  },
+    coverpage: true,
     homepage: '_main.md',
 
     // 切换页面后，自动滚动到顶部
@@ -62,24 +62,28 @@
     },
 
 
+      // edit on github, 原理没看懂，官网上粘过来的
       plugins: [
         function (hook, vm) {
           hook.beforeEach(function (html) {
-            var url = 'https://github.com/guofei9987/reading/blob/master/' + vm.route.file;
-            var editHtml = '[:memo: Edit](' + url + ')\n';
-            var donate = '<iframe src="https://guofei9987.github.io/donate/" style="overflow-x:hidden;overflow-y:hidden; border:0xp none #fff; min-height:240px; width:100%;"  frameborder="0" scrolling="no"></iframe>';
-
+            var url
+            if (/githubusercontent\.com/.test(vm.route.file)) {
+              url = vm.route.file
+                .replace('raw.githubusercontent.com', 'github.com')
+                .replace(/\/master/, '/blob/master')
+            } else {
+              url = 'https://github.com/guofei9987/course/blob/master/' + vm.route.file
+            }
+            var editHtml = '[:memo: Edit](' + url + ')\n'
             return editHtml
               + html
               + '\n\n----\n\n'
               // + 'Last modified {docsify-updated} '
               + ' '
               + editHtml
-              + donate
           })
         }
       ]
-
 
 
   };
@@ -100,6 +104,7 @@
 <!-- LaTeX支持 -->
 <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>
 <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css">
+
 
 <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 </body>
